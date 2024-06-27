@@ -62,4 +62,4 @@ Contributions are welcome! Feel free to submit issues or pull requests to enhanc
 
 **Happy coding with OpenAI!** 🧑‍💻
 
-Readme made with 💖 using [README Generator by Chirag Joshi](https://github.com/chiragjoshi12/readme-generator)
+Readme made with 💖 using [README Generator by Chirag Joshi](https://github.com/chiragg-ai/readme-generator)
